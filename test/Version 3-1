@@ -1,0 +1,565 @@
+
+<!-- saved from url=(0038)http://www.armory.com/tests/mktest.cgi -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<!-- 2013-12-11 00:17:45 Produced using the Purity-Test-O-Matic purity test constructor
+available at http://www.armory.com/tests/mktest.cgi -->
+<title>Risley Purity Test</title>
+<meta name="keywords" content="purity test">
+<meta name="generator" content="Purity-Test-O-Matic 1.0">
+<meta name="description" content="A purity test">
+</head>
+<body>
+<h1>THE RISLEY PURITY TEST</h1>
+<p>Last updated 012814. Version 3.1.0: 451 points. Now weighted for <em>Her Pleasure</em>!</p>
+This test is designed to measure both how involved and how "spiritually connected" you are with Risley Hall. Note: Some questions are worth more than others.
+<h3>Instructions: Check all boxes for which your answer is "yes".</h3><br>
+The "submit" button is at the bottom.</h2>
+<form method="post" action="http://www.armory.com/cgi-bin/purity-test">
+<!-- This tells the scorer that it should expect an "end" tag -->
+<input type="hidden" name="start">
+<!-- This is the base in which question numbers are given -->
+<input type="hidden" name="base" value="10">
+<!-- The debug parameter causes the scorer to report any errors it
+encounters back to the test submittor.  This ensures that if there are
+any problems with your test, you will see them when you test it out.
+If you remove it, only fatal errors will be reported.
+To get a more detailed report about your test, change the parameter name from
+debug to verify and then submit an instance of your test with all of the
+checkboxes selected.
+This will give a report regardless of whether there are problems or not, so
+after fixing any problems that show up, remove the verify parameter. -->
+<input type="hidden" name="debug">
+<!-- Be sure to change NumQuest if you change the number of questions! -->
+<input type="hidden" name="NumQuest" value="332">
+<input type="hidden" name="Name" value="Risley">
+<INPUT type=hidden value="Risley" name=longName> 
+<INPUT type=hidden value="Risley" name=domain> 
+<INPUT type=hidden value="Risley" name=domainName> 
+<INPUT type=hidden value="Risley" name=inyou> 
+<INPUT type=hidden value="mailto:squashlingchaotic@gmail.com" name=commentURL>
+<!-- Make sure that if you add/remove questions or change the point values of
+any questions, you change maxscore so that it remains the sum of all of the
+question values! -->
+<input type="hidden" name="maxscore" value="445">
+
+
+<!-- Insert a scoring guide entry into the value field of each of the Map lines below.  Change the 0 that precedes the
+colon to the maximum-score for the category, and add the category's description immediately after the colon. Here is 
+how the scoring guide works: A test submittor will be put in a given category if they get any score from that 
+category's maximum score down to (but not including) the next lowest category's maximum score.  That means that one 
+of the categories must have a maximum score exactly equal to the maximum score possible for your test.  The category 
+with the lowest maximum score will be assigned to submittors who get any score from its maximum score down through zero. 
+Remember, scores are calculated as the number of purity points *retained*, so the category that has a maximum score 
+equal to your test's maximum score should have a category name appropriate for someone who has retained all or 
+nearly all of their purity in your test's domain (that is, they answered yes to few questions or none at all). The 
+order that the categories are given in here is not important. -->
+<INPUT type=hidden value="445:InvisiRis" name="Map">
+<INPUT type=hidden value="400:RisNovice" name="Map">
+<INPUT type=hidden value="350:Risleyite" name="Map">
+<INPUT type=hidden value="320:RisMilitiaman&#58; One Minute Man" name="Map">
+<INPUT type=hidden value="310:RisMilitiaman&#58; Musket Packer" name="Map">
+<INPUT type=hidden value="300:RisMilitiaman&#58; Cannon Master" name="Map">
+<INPUT type=hidden value="290:RisMilitiaman&#58; First Sergent, Dildo Company" name="Map">
+<INPUT type=hidden value="280:RisMilitiaman&#58; Master and Commander" name="Map">
+<INPUT type=hidden value="270:RisNinja&#58; White Belt" name="Map">
+<INPUT type=hidden value="260:RisNinja&#58; Blue Belt" name="Map">
+<INPUT type=hidden value="250:RisNinja&#58; Pink Belt" name="Map">
+<INPUT type=hidden value="240:RisNinja&#58; Flamin' Belt" name="Map">
+<INPUT type=hidden value="230:Rear Admiral of Risley&#58; One Star" name="Map">
+<INPUT type=hidden value="220:Rear Admiral of Risley&#58; Two Stars" name="Map">
+<INPUT type=hidden value="210:Rear Admiral of Risley&#58; Three Stars" name="Map">
+<INPUT type=hidden value="200:Rear Admiral of Risley&#58; Four Stars" name="Map">
+<INPUT type=hidden value="180:Rearest of the Admirals of Risley" name="Map">
+<INPUT type=hidden value="160:Mr. Wiggles of the Kommittee Funkadelic Allstars" name="Map">
+<INPUT type=hidden value="150:P-Ris of the Kommittee Funkadelic Allstars" name="Map">
+<INPUT type=hidden value="140:Starchild of the Kommittee Funkadelic Allstars" name="Map">
+<INPUT type=hidden value="130:Dr. Funkenstein of the Kommittee Funkadelic Allstars" name="Map">
+<INPUT type=hidden value="120:The Mothership Connection, the Arrival of the Holy Funk, the Cause of Creation, and Source of All Life" name="Map">
+<INPUT type=hidden value="100:RisChampion&#58; Prudence Risley, True and Firm" name="Map">
+<INPUT type=hidden value="90:RisChampion&#58; Olympia Slocum Sage, Truer and Firmer" name="Map">
+<INPUT type=hidden value="80:RisChampion&#58; Rev. Andrew McNair, Fast and Furious" name="Map">
+<INPUT type=hidden value="70:RisChampion&#58; Mathis Jackson, Man and Machine" name="Map">
+<INPUT type=hidden value="69:RisDeity&#58; A Seductive Robot Decked out as a Beautiful Red-haired Girl" name="Map">
+<INPUT type=hidden value="61:RisDeity&#58; A Being Run Over by a Martian Bishop Driving a Steamroller" name="Map">
+<INPUT type=hidden value="53:RisDeity&#58; An Intergalactic Walrus that Perished after Falling out of a Flying Saucer" name="Map">
+<INPUT type=hidden value="45:RisDeity&#58; Xenu, the Ancient Alien Emperor who Stacked Millions of Humans around Volcanoes and Blew them Up with Hydrogen Bombs" name="Map">
+<INPUT type=hidden value="35:RisLegend" name="Map">
+<INPUT type=hidden value="0:Godot!" name="Map">
+
+<ol>
+<h2>The Basics.  Have you ever?</h2>
+<p>(11 Points)
+<li><input type="checkbox" name="q" value="1,1"> Been in Risley?</li>
+<li><input type="checkbox" name="q" value="2,1"> Eaten in Risley?</li>
+<li><input type="checkbox" name="q" value="3,1"> Been a member of Risley? (Out-of-House counts)</li>
+<li><input type="checkbox" name="q" value="4,1"> Lived in Risley?</li>
+<li><input type="checkbox" name="q" value="340,1"> ...without attending Cornell?</li>
+<li><input type="checkbox" name="q" value="5,1"> ....for your entire time at Cornell, until you were kicked out or graduated, failed out or died? (Been a RisLifer)</li>
+<LI><INPUT type="checkbox" value="246,2" name="q"> ... specifically, lived in the Risley shops? (2 points)</li>
+<li><input type="checkbox" name="q" value="6,1"> "Lived" in for Risley for your entire time at Cornell?</li>
+<li><input type="checkbox" name="q" value="7,1"> Been a RisMascot?</li>
+
+<h2>Events and Traditions</h2>
+<p>(51 points)</p>
+<li><input type="checkbox" name="q" value="161,1"> Attended RisBrunch?</li>
+<li><input type="checkbox" name="q" value="162,1"> ...Prepared RisBrunch?</li>
+<li><input type="checkbox" name="q" value="163,1"> Ate This?</li>
+<li><input type="checkbox" name="q" value="164,1"> ...Prepared Eat This?</li>
+<li><input type="checkbox" name="q" value="165,1"> Attended Karaoke?</li>
+<li><input type="checkbox" name="q" value="166,1"> ...Organized Karaoke?</li>
+<li><input type="checkbox" name="q" value="167,1"> Attended Rocky?</li>
+<li><input type="checkbox" name="q" value="168,1"> ...As a member of the Denton Drama Troupe?</li>
+<li><input type="checkbox" name="q" value="169,1"> ...Directed Rocky?</li>
+<li><input type="checkbox" name="q" value="170,1"> Attended Messiah?</li>
+<li><input type="checkbox" name="q" value="171,1"> ...Sang or played an instrument at Messiah?</li>
+<li><input type="checkbox" name="q" value="172,1"> ...Organized Messiah?</li>
+<li><input type="checkbox" name="q" value="173,1"> Ate at Harry Potter Night?</li>
+<li><input type="checkbox" name="q" value="174,1"> ...Acted at Harry Potter Night?</li>
+<li><input type="checkbox" name="q" value="175,1"> ...Organized Harry Potter Night?</li>
+<li><input type="checkbox" name="q" value="176,1"> Attended Masquerave?</li>
+<li><input type="checkbox" name="q" value="177,1"> ...Volunteered for Masquerave?</li>
+<li><input type="checkbox" name="q" value="178,1"> ...Organized Masquerave?</li>
+<li><input type="checkbox" name="q" value="179,1"> Attended a show in the Theater?</li>
+<li><input type="checkbox" name="q" value="180,1"> ...Acted or Teched for a show in the Theater?</li>
+<li><input type="checkbox" name="q" value="181,1"> ...Directed or Stage Managed a show in the Theater?</li>
+<li><input type="checkbox" name="q" value="182,1"> Attended Massage Night?</li>
+<li><input type="checkbox" name="q" value="183,1"> ...Organized Massage Night?</li>
+<li><input type="checkbox" name="q" value="185,1"> Been a nude model for Life Drawing?</li>
+<li><input type="checkbox" name="q" value="186,1"> ...Organized Life Drawing?</li>
+<li><input type="checkbox" name="q" value="187,1"> Attended Lost Coffee?</li>
+<li><input type="checkbox" name="q" value="188,1"> ...Organized Lost Coffee?</li>
+<li><input type="checkbox" name="q" value="298,1"> attended Risley Porn Night?</li>
+<li><input type="checkbox" name="q" value="299,1"> ... as a member of the Risley Porn Collective? (RPC puts on Porn Night.)</li>
+<li><input type="checkbox" name="q" value="300,1"> Been to a rave in the subbasement?</li>
+<li><input type="checkbox" name="q" value="301,1"> ...no one runs a Rave in the subbasement?</li>
+<li><input type="checkbox" name="q" value="189,1"> Played on the RisWii?</li>
+<li><input type="checkbox" name="q" value="190,1"> ...Been a Wiizard?</li>
+<li><input type="checkbox" name="q" value="313,1"> been to RisGiving?</li>
+<li><input type="checkbox" name="q" value="314,1"> ...cooked for RisGiving?</li>
+<li><input type="checkbox" name="q" value="315,1"> .....the turkey?</li>
+<li><input type="checkbox" name="q" value="192,1"> Attended Squidmahanukwaanzayulisolstica?</li>
+<li><input type="checkbox" name="q" value="193,1"> ...Organized Squidmahanukwaanzayulisolstica?</li>
+<LI><INPUT type="checkbox" value="42,2" name="q"> been a RisOC? (Risley Orientation Counselor) (2 points)</li>
+<LI><INPUT type="checkbox" value="43,1" name="q"> ... a hungover RisOC on move-in day?</li>
+<LI><INPUT type="checkbox" value="44,2" name="q"> ... a "special" RisOC on move-in day? (Each year, one special person gets completly wasted, vomits everywhere, sleeps in it, and probably should have their stomach pumped.) (2 points)</li>
+<LI><INPUT type="checkbox" value="38,2" name="q"> ... been elected Lord of the RisOCs? (2 points)</li>
+<LI><INPUT type="checkbox" value="45,1" name="q"> been a member of the Risley Ice Hockey and Blood Donation Team?</li>
+<LI><INPUT type="checkbox" value="46,1" name="q"> hung out with a Risley Faculty Fellow?</li>
+<LI><INPUT type="checkbox" value="47,1" name="q"> ... and was read a bedtime story in a real British accent?</li>
+<LI><INPUT type="checkbox" value="48,2" name="q"> began a new Risley tradition or recurring program? (2 points)</li>
+<LI><INPUT type="checkbox" value="49,2" name="q"> kept a Risley tradition alive? (2 points)</li>
+
+
+
+<h2>Kommittee</h2>
+<p>26 points</p>
+<LI><INPUT type="checkbox" value="11,2" name="q"> attended Kommittee? (2 points)</li>
+<LI><INPUT type="checkbox" value="12,1" name="q"> ... for 2+ hours?</li>
+<LI><INPUT type="checkbox" value="253,2" name="q"> ... for 5+ hours? (Drafting GSA Sub Charter, Theatre Insurrection '06) (2 points)</li>
+<LI><INPUT type="checkbox" value="13,1" name="q"> ... drunk (or othrewise altered)?</li>
+<LI><INPUT type="checkbox" value="254,1" name="q"> ... ... drunk but still "contributing" to discussion? (Things this does not include: Dumping your drink all over a couch, giggling uncontrollably, throwing things at people, etc.)</li>
+<LI><INPUT type="checkbox" value="14,1" name="q"> ... ... and drinking throughout?</li>
+<LI><INPUT type="checkbox" value="15,1" name="q"> ... ... every week for a month?</li>
+<LI><INPUT type="checkbox" value="16,1" name="q"> ... as the Rebel Alliance? (The Rebel Alliance is a Kommittee member who takes satirical and snarky minutes during the meeting, and then sends them to the listserv.)</li>
+<LI><INPUT type="checkbox" value="17,1" name="q"> been a Kommittee member? (Elected or Endured)</li>
+<LI><INPUT type="checkbox" value="261,1" name="q"> ... been elected to Kommittee?</li>
+<LI><INPUT type="checkbox" value="18,2" name="q"> ... specifically, &iexcl;El Presidente for Life!? (2 points)</li>
+<LI><INPUT type="checkbox" value="260,2" name="q"> ... specifically, the Grand Vizier? (2 points)</li>
+<LI><INPUT type="checkbox" disabled> ... specifically, the Kommittee Barber? (infinite points)</li>
+<LI><INPUT type="checkbox" value="20,1" name="q"> been a sub-Kommittee member?</li>
+<li><input type="checkbox" name="q" value="294,1"> ...other than t-sub?</li>
+<li><input type="checkbox" name="q" value="288,1"> Witnessed a deployment of the mime?</li>
+<li><input type="checkbox" name="q" value="289,1"> ...been the mime? (3 points)</li>
+<li><input type="checkbox" name="q" value="306,1"> Allocated for a mural at Kommittee?</li>
+<li><input type="checkbox" name="q" value="307,1"> ...gotten it approved?</li>
+<li><input type="checkbox" name="q" value="308,3"> ...actually painted it? (3 points)</li>
+<LI><INPUT type="checkbox" value="6,1" name="q"> ... with your naked body?</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Exploring Risley</h2>
+
+<p>(25 points)</p>
+
+<p>Have you ever...</p>
+
+        <LI><INPUT type="checkbox" value="53,1" name="q"> been in Risley's Gorge? (Yes, it's <i>ours</i>.)</li>
+        <LI><INPUT type="checkbox" value="54,2" name="q"> been on the roof of the tower? (2 points)</li>
+        <LI><INPUT type="checkbox" value="55,2" name="q"> ... on the roof, but somewhere <em>other than</em> the tower? (2 points)</li>
+        <LI><INPUT type="checkbox" value="56,1" name="q"> been in the tower's fire escape?</li>
+        <LI><INPUT type="checkbox" value="57,1" name="q"> been on top of the eschervator (the elevator) itself?</li>
+        <LI><INPUT type="checkbox" value="58,2" name="q"> been in the room above the eschervator? (2 points)</li>
+        <LI><INPUT type="checkbox" value="59,1" name="q"> been in fourth lost? (eg. the attic)</li>
+        <LI><INPUT type="checkbox" value="60,1" name="q"> been in the crawlspace above three and a half or fourth and a half?</li>
+        <LI><INPUT type="checkbox" value="61,1" name="q"> been in the attic above fourth main/east?</li>
+        <LI><INPUT type="checkbox" value="62,2" name="q"> been behind the fence where the machinery is in the sub-basement? (2 points)</li>
+        <LI><INPUT type="checkbox" value="63,1" name="q"> been in one of the driers in the laundry room?</li>
+        <LI><INPUT type="checkbox" value="64,1" name="q"> ... to impress a girl or boy?</li>
+        <LI><INPUT type="checkbox" value="65,1" name="q"> been in the room behind the dryers in the laundry room?</li>
+        <LI><INPUT type="checkbox" value="66,1" name="q"> been under the front steps?</li>
+        <LI><INPUT type="checkbox" value="67,1" name="q"> been in that narrow-doored room next to the elevator in the basement?</li>
+        <LI><INPUT type="checkbox" value="68,1" name="q"> been in the Risley router room?</li>
+        <LI><INPUT type="checkbox" value="69,1" name="q"> ... and graffiti'd it?</li>
+        <LI><INPUT type="checkbox" value="70,1" name="q"> crawled up the dumbwaiter shaft?</li>
+        <LI><INPUT type="checkbox" value="72,1" name="q"> entered Risley through a window?</li>
+        <LI><INPUT type="checkbox" value="73,1" name="q"> ... naked?</li>
+        <LI><INPUT type="checkbox" value="74,1" name="q"> left Risley through a window?</li>
+		
+<h2>Shops</h2>
+<p>(21 points) </p>
+<li><input type="checkbox" name="q" value="197,1"> Attended Open Shops Day?</li>
+<li><input type="checkbox" name="q" value="198,1"> Attended a workshop in the shops?</li>
+<li><input type="checkbox" name="q" value="199,1"> Attended a shop's open hours?</li>
+<li><input type="checkbox" name="q" value="200,1"> Emailed a shop's manager to let you in?</li>
+<li><input type="checkbox" name="q" value="201,2"> Been a shop manager? (2 points)</li>
+<li><input type="checkbox" name="q" value="202,2"> Thrown away 10  lbs of stuff as a shop manager? (2 points)</li>
+<li><input type="checkbox" name="q" value="203,2"> Pulled an all-nighter in the shops? (2 points)</li>
+<li><input type="checkbox" name="q" value="204,2"> Used a shop for other than its intended purpose? (2 points)</li>
+<li><input type="checkbox" name="q" value="205,1"> ...excluding sex?</li>
+<li><input type="checkbox" name="q" value="206,3"> Organized a workshop? (3 points)</li>
+<li><input type="checkbox" name="q" value="207,1"> ...a macrame workshop?</li>
+<li><input type="checkbox" name="q" value="208,1"> ...a "macrame" workshop?</li>
+<li><input type="checkbox" name="q" value="209,3"> Lived in the shops? (3 points)</li>
+
+
+<h2>Publications and Free Speech</h2>
+<p>(14 points) </p>
+<li><input type="checkbox" name="q" value="210,1"> Made a Risquirer?</li>
+<li><input type="checkbox" name="q" value="211,1"> Contributed to the Risley Revue?</li>
+<li><input type="checkbox" name="q" value="212,1"> Staffed the Risley Revue?</li>
+<li><input type="checkbox" name="q" value="213,2"> Founded or revived the Risley Revue?</li>
+<li><input type="checkbox" name="q" value="214,1"> Contributed to the 2nd East Probe?</li>
+<li><input type="checkbox" name="q" value="215,1"> Posted an unauthorized poster?</li>
+<li><input type="checkbox" name="q" value="216,2"> Gotten interrogated about unauthorized posters?</li>
+<li><input type="checkbox" name="q" value="217,1"> Asked for something on a listserve?</li>
+<li><input type="checkbox" name="q" value="218,1"> ...for someone to take your virginity?</li>
+<li><input type="checkbox" name="q" value="219,1"> Started a flame war?</li>
+<li><input type="checkbox" name="q" value="220,1"> Been a Listserv Guardian?</li>
+<li><input type="checkbox" name="q" value="221,1"> Sent an email to a listserv consisting entirely of titles of Beatles songs?</li>
+
+
+<h2>Pool</h2>
+<p>(50 points)</p>
+<li><input type="checkbox" name="q" value="222,1"> Done Pool?</li>
+<li><input type="checkbox" name="q" value="223,1"> ...naked?</li>
+<li><input type="checkbox" name="q" value="224,1"> ...with snow on the ground?</li>
+<li><input type="checkbox" name="q" value="324,2"> ...Jello Pool? (2 points)</li>
+<li><input type="checkbox" name="q" value="335,1"> .....naked?</li>
+<li><input type="checkbox" name="q" value="337,2"> ...Vodka Pool? (2 points)</li>
+<li><input type="checkbox" name="q" value="338,1"> .....naked? (Oh, god, the burning)</li>
+<li><input type="checkbox" name="q" value="325,3"> ...another, non-water pool? (3 points)</li>
+<li><input type="checkbox" name="q" value="336,1"> .....naked? </li>
+<li><input type="checkbox" name="q" value="225,2"> Pooled with a family member?</li>
+<li><input type="checkbox" name="q" value="226,1"> ...with a Risleyite's family member?</li>
+<li><input type="checkbox" name="q" value="227,1"> ...without the Risleyite there?</li>
+<li><input type="checkbox" name="q" value="228,1"> Pooled with someone you'd boink?</li>
+<li><input type="checkbox" name="q" value="229,1"> boinked with someone you'd pool?</li>
+<li><input type="checkbox" name="q" value="230,1"> Pooled with someone you've boinked?</li>
+<li><input type="checkbox" name="q" value="231,1"> boinked with someone you've Pooled?</li>
+<li><input type="checkbox" name="q" value="232,1"> been a Pool voyeur?</li>
+<li><input type="checkbox" name="q" value="233,2"> ...and serenaded the people in Pool? (2 points)</li>
+<li><input type="checkbox" name="q" value="234,1"> gotten out to cool off and been seen naked by passers by?</li>
+<li><input type="checkbox" name="q" value="235,1"> invited passers by to Pool?</li>
+<li><input type="checkbox" name="q" value="236,2"> ...and had them join in? (2 points)</li>
+<li><input type="checkbox" name="q" value="237,3"> done a Balch Run? (3 points)</li>
+<li><input type="checkbox" name="q" value="238,2"> ...and been caught by the cops? (2 points)</li>
+<li><input type="checkbox" name="q" value="323,3"> Been to the Worst Pool Ever? (the hot water wasn't working. 3 points for your pain.)</li>
+<li><input type="checkbox" name="q" value="326,1"> Been locked out during pool?</li>
+<li><input type="checkbox" name="q" value="327,2"> ..and had to knock on an AIR's window to get let back in?</li>
+<li><input type="checkbox" name="q" value="330,3"> Been on the Pool list-serve? (3 points)</li>
+<li><input type="checkbox" name="q" value="239,1"> Given the Cardinal Rules of Pool?</li>
+<li><input type="checkbox" name="q" value="240,1"> Broken a Cardinal Rule of Pool?</li>
+<li><input type="checkbox" name="q" value="241,6"> ...was it NOT Rule 2?</li>
+<li><input type="checkbox" name="q" value="242,1"> Broken all the Cardinal Rules of Pool (Please, no, please, no, BAN YOURSELF FOREVER)</li>
+		
+		
+		
+<h2>Unkatunk and Intra-Building Relations</h2>
+<p>(43 points)</p>
+<h3>A few Terms...</h3>
+
+<p><b>Unkatunk to</b> &mdash; The relationship between two people, A and C, whereby A has boinked B and B has boinked C.</p>
+
+<p><b>Unkatunk through</b> &mdash; The relationship between two people, A and B, whereby A has boinked B and B has boinked C. 
+To be unkatunk through someone, you must be unkatunk to someone.</p>
+
+<p>For example, pretend that Dale kisses Stacy. Stacy then goes on to kiss Dave. Dale would then be "unkatunk to" Dave, 
+and "unkatunk through" Stacy.</p>
+
+<h3>Boink</h3> &mdash; (Big B) To have oral, anal, or vaginal sex with a person.<br>
+
+<h3>boink</h3> &mdash; (Little B) To have intimate contact with a person that is not Boinking.
+
+<p>Are you unkatunk...</p>
+<li><input type="checkbox" name="q" value="41,1"> to 5 or more Risleyites (have you kissed anyone in Risley?)</li>
+<li><input type="checkbox" name="q" value="42,2"> to 10 or more Risleyites?</li>
+<li><input type="checkbox" name="q" value="43,3"> to 25 or more Risleyites?</li>
+<li><input type="checkbox" name="q" value="44,2"> through 5 or more Risleyites? (You are a Node.)</li>
+<li><input type="checkbox" name="q" value="45,2"> through 10 or more Risleyites? (You are a Hub.) (2 points)</li>
+<li><input type="checkbox" name="q" value="46,3"> through 15 or more Risleyites? You are a FUCKING AIRPORT. PLANES FLY IN AND OUT OF YOU.) (3 points)</li>
+<li><input type="checkbox" name="q" value="47,4"> through 5 or more FUCKING AIRPORTS? (You are a OH MY GOD GO GET TESTED NOW. WHAT THE FUCK ARE YOU TAKING THIS TEST FOR? THERE ARE MORE IMPORTANT TESTS FOR YOU.) (OMG points)</li>
+<p>Have you ever...</p>
+<li><input type="checkbox" name="q" value="316,1"> been propositioned by a Risleyite?</li>
+<li><input type="checkbox" name="q" value="317,1"> ...a naked Risleyite? (Pool counts.)</li>
+<li><input type="checkbox" name="q" value="318,2"> ...a staff member?</li>
+<li><input type="checkbox" name="q" value="319,2"> ...a naked staff member?</li>
+<li><input type="checkbox" name="q" value="320,1"> accepted any of the above?</li>
+<li><input type="checkbox" name="q" value="321,1"> been sleazed on by a RisSleaze?</li>
+<LI><INPUT type="checkbox" value="127,1" name="q"> ... boinked them?</li>
+
+<p>Have you boinked:</p>
+<li><input type="checkbox" name="q" value="112,1"> the Risley Mascot? (The Risley Mascot is the person living in Risley while not attending Cornell or having another residence.) (2 points)</li>
+<li><input type="checkbox" name="q" value="114,1"> an RA?</li>
+<li><input type="checkbox" name="q" value="115,5"> ALL the RAs? (from one particular year, not necessarily during that year.)</li>
+<li><input type="checkbox" name="q" value="118,3"> a staff member (excluding the RHD)?</li>
+<li><input type="checkbox" name="q" value="119,4"> the RHD?</li>
+<li><input type="checkbox" name="q" value="120,3"> all the RAs, staff members and the RHD? (from one particular year, not necessarily during that year.) ((GOTTA CATCH 'EM ALL.))</li>
+
+
+<h2>Naughtiness</h2>
+<p>(41 points)</p>
+<p>With a Risleyite or in Risley have you ever...</p>
+
+ <LI><INPUT type="checkbox" value="135,1" name="q"> been nekkid in Risley? </li>
+        <LI><INPUT type="checkbox" value="136,1" name="q"> ... with more than one person at once?</li>
+        <LI><INPUT type="checkbox" value="137,1" name="q"> snuggled or spooned or dryhumped?</li>
+        <LI><INPUT type="checkbox" value="138,1" name="q"> ... with more than one person at once?</li>
+        <LI><INPUT type="checkbox" value="139,1" name="q"> made out?</li>
+        <LI><INPUT type="checkbox" value="140,1" name="q"> ... with more than one person at once? </li>
+<li><input type="checkbox" name="q" value="127,1"> groped?</li>
+<li><input type="checkbox" name="q" value="128,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="129,1"> had oral sex?</li>
+<li><input type="checkbox" name="q" value="130,1"> ... with more than one person at once? (daisy chain!)</li>
+<li><input type="checkbox" name="q" value="131,1"> 69'd?</li>
+<li><input type="checkbox" name="q" value="132,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="133,1"> had vaginal sex?</li>
+<li><input type="checkbox" name="q" value="134,1"> ... with more than one person at once? (That is, had group sex where there was vaginal sex.)</li>
+<li><input type="checkbox" name="q" value="135,1"> had anal sex?</li>
+<li><input type="checkbox" name="q" value="136,1"> ... with more than one person at once? (That is, had group sex where there was anal sex.)</li>
+<LI><INPUT type="checkbox" value="150,1" name="q"> rimmed?</li>
+        <LI><INPUT type="checkbox" value="124,1" name="q"> ... with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="137,1"> fisted?</li>
+<li><input type="checkbox" name="q" value="138,1"> ...with more than one person at once? (<a href="http://www.ivygateblog.com/blog/2006/11/risley_hall_cornells_raging_id.html" target="_blank">Nothing quite like "a good ol' triple-fisting in the building's dungeon-like bowels"!</a>)</li>
+<li><input type="checkbox" name="q" value="139,1"> been in naughty pictures (taken by a Risleyite or in Risley)?</li>
+<li><input type="checkbox" name="q" value="140,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="332,1"> ...had them distributed via DC++?</li>
+<li><input type="checkbox" name="q" value="143,1"> been involved in bondage? (Rocky and/or Masquerave do not count.)</li>
+<li><input type="checkbox" name="q" value="144,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="145,1"> masturbated?</li>
+<li><input type="checkbox" name="q" value="146,1"> ... with more than, you know, just you? (circle jerk?)</li>
+<li><input type="checkbox" name="q" value="147,1"> used sex toys?</li>
+<li><input type="checkbox" name="q" value="148,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="149,3"> lost a Lee Press-On Nail in a bodily orifice? (3 points!)</li>
+<li><input type="checkbox" name="q" value="151,1"> screamed out in sexual ecstasy and had someone not involved scream back?</li>
+<li><input type="checkbox" name="q" value="155,1"> fallen asleep during sex?</li>
+<li><input type="checkbox" name="q" value="156,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="157,1"> roleplayed during sex?</li>
+<li><input type="checkbox" name="q" value="158,1"> ...with more than one person at once?</li>
+<li><input type="checkbox" name="q" value="159,3"> roleplayed as Cornell staff members? (3 points)</li>
+<li><input type="checkbox" name="q" value="160,1"> ...with more than one person at once?</li>
+
+
+<h3>Super Bonus Naughtiness!</h3>
+<p>(28 points)</p>
+<p>Have you ever...</p>
+<li><input type="checkbox" name="q" value="153,2"> broken furniture in Risley during a sexual act?</li>
+<li><input type="checkbox" name="q" value="154,2"> ...owned by Cornell?</li>
+<LI><INPUT type="checkbox" value="161,1" name="q"> been beaten, pounded, mauled, bruised, scarred, bitten or otherwise assaulted by a Risleyite (or vice-versa)?</li>
+        <LI><INPUT type="checkbox" value="162,1" name="q"> ... with sexual intent?</li>
+        <LI><INPUT type="checkbox" value="163,1" name="q"> ... and drew blood or bled?</li>
+        <LI><INPUT type="checkbox" value="164,1" name="q"> ... any of the above, but with knives? ("The Adri Point")</li>
+        <LI><INPUT type="checkbox" value="165,1" name="q"> lost your virginity in Risley or to a Risleyite?</li>
+        <LI><INPUT type="checkbox" value="166,1" name="q"> taken somone's virginity in Risley?</li>
+        <LI><INPUT type="checkbox" value="167,1" name="q"> ... a Risleyite's virginity in Risley? (2 points)</li>
+        <LI><INPUT type="checkbox" value="168,1" name="q"> boinked a Risleyite with a significant other? (Your sig does not count.)</li>
+        <LI><INPUT type="checkbox" value="169,1" name="q"> ... with their sig in the room? (<em>Swingin'</em>)</li>
+        <LI><INPUT type="checkbox" value="170,2" name="q"> participated in a Risley orgy? (Daily Sun-worthy!) (2 points)</li>
+        <LI><INPUT type="checkbox" value="171,2" name="q"> hosted an orgy or group boinking in Risley? (2 points)</li>
+        <LI><INPUT type="checkbox" value="172,2" name="q"> ... without your presence? (2 points)</li>
+        <LI><INPUT type="checkbox" value="173,1" name="q"> been referred to as the "easiest lay in Risley"?</li>
+        <LI><INPUT type="checkbox" value="174,3" name="q"> ... competed for the title? (3 points)</li>
+        <LI><INPUT type="checkbox" value="175,1" name="q"> been rumoured to be the "best lay in Risley"?</li>
+        <LI><INPUT type="checkbox" value="176,1" name="q"> used this test as a checklist? (Well? Get on it.)</li>
+        <LI><INPUT type="checkbox" value="177,1" name="q"> waxed/shaved/naired a Risleyite's pubes (or had yours done by a Risleyite)?</li>
+        <LI><INPUT type="checkbox" value="178,1" name="q"> been a force of evil? (eg. Successfully persuaded Risleyites to get naked or hook up for your personal amusement.)</li>
+        <LI><INPUT type="checkbox" value="179,1" name="q"> succumbed to a force of evil?</li>
+
+		
+<h2> Naughty Locations! </h2>
+<p>(39 points)</p>
+<p>With a Risleyite or in Risley, have you ever boinked or Boinked:</p>
+
+<p><em>Easy...</em></p>
+
+
+        <LI><INPUT type="checkbox" value="180,1" name="q"> in your room?</li>
+        <LI><INPUT type="checkbox" value="181,1" name="q"> in someone else's room?</li>
+        <LI><INPUT type="checkbox" value="182,1" name="q"> in the showers?</li>
+        <LI><INPUT type="checkbox" value="183,1" name="q"> in the Front Hall, the Great Hall, or Tammany?</li>
+        <LI><INPUT type="checkbox" value="184,1" name="q"> in the TV room/CLR/Cowcliffes?</li>
+        <LI><INPUT type="checkbox" value="185,1" name="q"> in the laundry room?</li>
+		<LI><INPUT type="checkbox" value="185,1" name="q"> ...the pool closet?</li>
+		<LI><INPUT type="checkbox" value="185,1" name="q"> in the dance studio?</li>
+        <LI><INPUT type="checkbox" value="186,1" name="q"> in the eschervator? </li>
+		<li><input type="checkbox" name="q" value="57,1"> while touching the Baby Machine?</li>
+		<li><input type="checkbox" name="q" value="58,1"> while touching the Donut Machine?</li>
+        <LI><INPUT type="checkbox" value="187,1" name="q"> in the shops?</li>
+		<li><input type="checkbox" name="q" value="57,2"> ...ALL of the shops? (2 points)</li>
+<li><input type="checkbox" name="q" value="57,1"> while on  Louie's run?</li>
+        <LI><INPUT type="checkbox" value="188,1" name="q"> in the 2nd floor library?</li>
+		<li><input type="checkbox" name="q" value="92,3"> in the courtyard?</li>
+<li><input type="checkbox" name="q" value="93,2"> in the gorge?</li>
+        <LI><INPUT type="checkbox" value="189,1" name="q"> in the sub basement?</li>
+
+
+<p><em>Moderate...</em></p>
+
+
+        <LI><INPUT type="checkbox" value="190,1" name="q"> in a relative stranger's room? </li>
+        <LI><INPUT type="checkbox" value="191,1" name="q"> with others in the room? </li>
+        <LI><INPUT type="checkbox" value="192,1" name="q"> in a kitchen?</li>
+        <LI><INPUT type="checkbox" value="193,1" name="q"> on a balcony or a ledge?</li>
+        <LI><INPUT type="checkbox" value="194,1" name="q"> in the theatre or theatre related space? </li>
+		<li><input type="checkbox" name="q" value="78,2"> in one of the rooms over Tammany?</li>
+
+
+<p><em>Hard...</em></p>
+
+
+        <LI><INPUT type="checkbox" value="195,2" name="q"> on the roof? (2 points)</li>
+        <LI><INPUT type="checkbox" value="196,2" name="q"> in the RisDining Kitchen? (2 points)</li>
+        <LI><INPUT type="checkbox" value="197,2" name="q"> in a staff member's apartment? (2 points)</li>
+        <LI><INPUT type="checkbox" value="198,2" name="q"> in the service center? (2 points)</li>
+        <LI><INPUT type="checkbox" value="199,2" name="q"> in the Louie's Lunch truck? (2 points)</li>
+
+
+<h3>Big 'B' Boinking</h3>
+<p>(45 points)</p>
+<p>With a Risleyite or in Risley, have you Boinked (remember, at least oral sex):</p>
+
+
+        <LI><INPUT type="checkbox" value="200,1" name="q"> in the laundry room?</li>
+        <LI><INPUT type="checkbox" value="201,1" name="q"> in the practice rooms or shops?</li>
+        <LI><INPUT type="checkbox" value="202,1" name="q"> in the 2nd floor library?</li>
+        <LI><INPUT type="checkbox" value="203,2" name="q"> ... with more than one person at once? (2 points)</li>
+        <LI><INPUT type="checkbox" value="204,1" name="q"> in the theatre or theatre related space (ie. the <em>tool</em> room)? </li>
+		<li><input type="checkbox" name="q" value="92,3"> in the courtyard?</li>
+<li><input type="checkbox" name="q" value="93,2"> in the gorge?</li>
+        <LI><INPUT type="checkbox" value="205,1" name="q"> in the room of someone who is not party to the Boinking? </li>
+        <LI><INPUT type="checkbox" value="206,1" name="q"> in a relative stranger's room? </li>
+        <LI><INPUT type="checkbox" value="207,1" name="q"> in the service center/RA office?</li>
+        <LI><INPUT type="checkbox" value="208,1" name="q"> in the dance studio?</li>
+        <LI><INPUT type="checkbox" value="209,3" name="q"> ... with an allocation beforehand explicitly for that purpose? (3 points)</li>
+        <LI><INPUT type="checkbox" value="210,2" name="q"> in the RisDining Kitchen? (2 points)</li>
+        <LI><INPUT type="checkbox" value="211,2" name="q"> ... on the food prep tables (ew) or the grill (ow)? (2 points)</li>
+        <LI><INPUT type="checkbox" value="212,2" name="q"> in the Front Hall? (2 points)</li>
+        <LI><INPUT type="checkbox" value="213,2" name="q"> in the Great Hall? (2 points)</li>
+        <LI><INPUT type="checkbox" value="214,2" name="q"> in Tammany? (2 points)</li>
+        <LI><INPUT type="checkbox" value="215,2" name="q"> in the TV room/CLR/Cowcliffes? (2 points)</li>
+        <LI><INPUT type="checkbox" value="216,2" name="q"> in the eschervator? (2 points)</li>
+        <LI><INPUT type="checkbox" value="217,2" name="q"> on the roof? (2 points)</li>
+		<li><input type="checkbox" name="q" value="104,4"> on a Louie's run? (8 points.  Holy shit.)</li>
+        <LI><INPUT type="checkbox" value="218,2" name="q"> in a kitchen? (2 points)</li>
+		<li><input type="checkbox" name="q" value="110,3"> in one of the rooms over Tammany?</li>
+        <LI><INPUT type="checkbox" value="219,2" name="q"> with others in the room not participating? (2 points)</li>
+        <li><input type="checkbox" value="221,2" name="q"> ... did you get caught in any of the above? (2 points)</li>
+
+
+<h2>Crimes and Misdemeanors</h2>
+<p>(25 points)</p>
+<li><input type="checkbox" name="q" value="243,1"> created such a disturbance that you were asked to leave a dining hall?</li>
+<li><input type="checkbox" name="q" value="244,1"> caused other tables to get up and leave?</li>
+<li><input type="checkbox" name="q" value="245,1"> stolen, vandalized, or trespassed on Zeta Psi property?</li>
+<li><input type="checkbox" name="q" value="246,1"> called the cops on Zeta Psi?</li>
+<li><input type="checkbox" name="q" value="247,2"> mooned Zeta Psi? (2 points)</li>
+<li><input type="checkbox" name="q" value="248,1"> B/boinked someone from Zeta Psi?</li>
+<li><input type="checkbox" name="q" value="249,1"> Come to a Ris Event in drag?</li>
+<li><input type="checkbox" name="q" value="250,2"> ...other than Rocky? (2 points)</li>
+<li><input type="checkbox" name="q" value="251,1"> drank alcohol while underage in Risley?</li>
+<li><input type="checkbox" name="q" value="252,1"> used illicit drugs in Risley?</li>
+<li><input type="checkbox" name="q" value="253,1"> bought drugs in Risley?</li>
+<li><input type="checkbox" name="q" value="254,1"> dealt drugs in Risley?</li>
+<li><input type="checkbox" name="q" value="255,2"> grown your own pot in Risley? (2 points)</li>
+<li><input type="checkbox" name="q" value="256,2"> used Risley shops for the manufacture of illegal drugs? (2 points)</li>
+<li><input type="checkbox" name="q" value="257,1"> Been blessed by a RisFairy?</li>
+<li><input type="checkbox" name="q" value="258,1"> ...a Beer Fairy?</li>
+<li><input type="checkbox" name="q" value="259,2"> Been a RisFairy? (2 points)</li>
+<li><input type="checkbox" name="q" value="260,1"> ...a Beer Fairy?</li>
+<li><input type="checkbox" name="q" value="295,1"> Tried to bribe someone to not take a room during selection?.</li>
+<li><input type="checkbox" name="q" value="296,2"> ...with sexual favors? (2 points)</li>
+
+
+<h2>Assorted Feats</h2>
+<p>(24 points)</p>
+<li><input type="checkbox" name="q" value="262,1"> helped someone find their sexual orientation?</li>
+<li><input type="checkbox" name="q" value="263,2"> ...did you get the toaster?</li>
+<li><input type="checkbox" name="q" value="264,1"> climbed into a dryer in the laundry room?</li>
+<li><input type="checkbox" name="q" value="265,1"> ...to impress a romantic interest?</li>
+<li><input type="checkbox" name="q" value="267,3"> used a dildo from Rocky for its god-given purpose?(3 points)</li>
+<li><input type="checkbox" name="q" value="268,1"> boinked your friends? (platonic)</li>
+<li><input type="checkbox" name="q" value="269,1"> boinked your enemies? (silly)</li>
+<li><input type="checkbox" name="q" value="270,2"> Boinked your enemies? (HATESEX HATESEX)</li>
+<li><input type="checkbox" name="q" value="271,1"> had a non-aquatic fish in Risley?</li>
+<li><input type="checkbox" name="q" value="272,1"> been in a protest organized by a Risleyite?</li>
+<li><input type="checkbox" name="q" value="273,1"> organized a protest?</li>
+<li><input type="checkbox" name="q" value="303,1"> Been on the 2nd Lost Shipping Wall?</li>
+<li><input type="checkbox" name="q" value="304,1"> ...with someone's hair?</li>
+<li><input type="checkbox" name="q" value="305,1"> ...with an inanimate object?</li>
+<li><input type="checkbox" name="q" value="309,1"> Been in a Risley Cuddle Puddle?</li>
+<li><input type="checkbox" name="q" value="310,1"> Built a pillow fort?</li>
+<li><input type="checkbox" name="q" value="311,1"> ...in a common area?</li>
+<li><input type="checkbox" name="q" value="312,1"> ...and actually slept in it? (2 points)</li>
+<li><input type="checkbox" name="q" value="322,1"> been accosted/hit on/interrupted mid-coitus by a housekeeper? (3 points)</li>
+<li><input type="checkbox" name="q" value="331,1"> Won a RisPerlative?</li>
+
+
+<h2>Legendary Feats</h2>
+<p>(27 points)</p>
+<P>Have you ever...</p>
+<li><input type="checkbox" name="q" value="266,1"> used Risley's "Toys" for the Masquerave (Love Ewe, Chin Fucker, etc.) after the fact? (3 points)</li>
+<li><input type="checkbox" name="q" value="275,5"> Been a Risley Purity Test Author? (How many points? We're shameless, that's how many.)</li>
+<li><input type="checkbox" name="q" value="276,3"> ...B/boinked an Author? (you know who you are)</li>
+<li><input type="checkbox" name="q" value="277,1"> ...been unkatunk to an Author? (If you aren't sure, you probably are.)</li>
+<li><input type="checkbox" name="q" value="278,2"> put a car of the roof of Risley?</li>
+<li><input type="checkbox" name="q" value="279,1"> put a tree in the atrium of Risley?</li>
+<li><input type="checkbox" name="q" value="280,1"> ...stolen bits of tree and used them to decorate your room?</li>
+<li><input type="checkbox" value="231,1" name="q"> been on David Baines' Nookie List?</li>
+<LI><INPUT type="checkbox" value="232,1" name="q"> had Rachael Applebaum honk her rubber chicken at you while you were Boinking?</li>
+<LI><INPUT type="checkbox" value="243,1" name="q"> been to a party thrown by Gordon F. Sander?</li>
+<LI><INPUT type="checkbox" value="234,1" name="q"> been walled into your room by soda cans? (They have to still be full of soda. Yes, this is what Points are for.)</li>
+<LI><INPUT type="checkbox" value="237,1" name="q"> been JA'd for planning and executing House Meeting? (Specifically for lighting a foot-tall pure Ethanol fire, perhaps?)</li>
+<LI><INPUT type="checkbox" value="239,1" name="q"> while in pool, been asked by a uniformed police officer whether you were, maybe, looking for any of your clothing?</li>
+<LI><INPUT type="checkbox" value="71,1" name="q"> crossed the catwalk under the Thurston Avenue bridge?</li>
+<LI><INPUT type="checkbox" value="267,1" name="q"> won the Patriot Day Jenga Tournament by tiebreaker?</li>
+<LI><INPUT type="checkbox" value="100,3" name="q"> built a giant trebuchet on the roof? (3 points)</li>
+<LI><INPUT type="checkbox" value="101,2" name="q"> ... and lobbed things at Zeta Psi? (2 points)</li>
+
+
+
+
+
+
+</ol>
+<center>
+<input type="submit" value="Submit your test for purity calculation">
+<input type="reset" value="Reset all questions">
+</center>
+<!-- This and the start tag are an attempt at detecting the case where
+a browser only transfers part of the form due to internal limitations -->
+<p>Maintained by <a href="mailto:squashlingchaotic@gmail.com?subject=Risley Purity Test"> The Once and Future Risleyite</a>. (<a href="#" onclick="SetAllCheckBoxes('test','q',true);">check all</a>)</p>
+<input type="hidden" name="end">
+</form>
+
+
+</body></html>
