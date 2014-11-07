@@ -10,7 +10,7 @@ available at http://www.armory.com/tests/mktest.cgi -->
 </head>
 <body>
 <h1>THE RISLEY PURITY TEST</h1>
-<p>Last updated 012814. Version 3.1.0: 451 points. Now weighted for <em>Her Pleasure</em>!</p>
+<p>Last updated 012814. Version 3.1.0: 443 points. Now weighted for <em>Her Pleasure</em>!</p>
 This test is designed to measure both how involved and how "spiritually connected" you are with Risley Hall. Note: Some questions are worth more than others.
 <h3>Instructions: Check all boxes for which your answer is "yes".</h3><br>
 The "submit" button is at the bottom.</h2>
@@ -30,7 +30,7 @@ This will give a report regardless of whether there are problems or not, so
 after fixing any problems that show up, remove the verify parameter. -->
 <input type="hidden" name="debug">
 <!-- Be sure to change NumQuest if you change the number of questions! -->
-<input type="hidden" name="NumQuest" value="332">
+<input type="hidden" name="NumQuest" value="330">
 <input type="hidden" name="Name" value="Risley">
 <INPUT type=hidden value="Risley" name=longName> 
 <INPUT type=hidden value="Risley" name=domain> 
@@ -40,7 +40,7 @@ after fixing any problems that show up, remove the verify parameter. -->
 <!-- Make sure that if you add/remove questions or change the point values of
 any questions, you change maxscore so that it remains the sum of all of the
 question values! -->
-<input type="hidden" name="maxscore" value="445">
+<input type="hidden" name="maxscore" value="443">
 
 
 <!-- Insert a scoring guide entry into the value field of each of the Map lines below.  Change the 0 that precedes the
@@ -53,10 +53,10 @@ Remember, scores are calculated as the number of purity points *retained*, so th
 equal to your test's maximum score should have a category name appropriate for someone who has retained all or 
 nearly all of their purity in your test's domain (that is, they answered yes to few questions or none at all). The 
 order that the categories are given in here is not important. -->
-<INPUT type=hidden value="445:InvisiRis" name="Map">
-<INPUT type=hidden value="400:RisNovice" name="Map">
-<INPUT type=hidden value="350:Risleyite" name="Map">
-<INPUT type=hidden value="320:RisMilitiaman&#58; One Minute Man" name="Map">
+<INPUT type=hidden value="443:InvisiRis" name="Map">
+<INPUT type=hidden value="498:RisNovice" name="Map">
+<INPUT type=hidden value="348:Risleyite" name="Map">
+<INPUT type=hidden value="318:RisMilitiaman&#58; One Minute Man" name="Map">
 <INPUT type=hidden value="310:RisMilitiaman&#58; Musket Packer" name="Map">
 <INPUT type=hidden value="300:RisMilitiaman&#58; Cannon Master" name="Map">
 <INPUT type=hidden value="290:RisMilitiaman&#58; First Sergent, Dildo Company" name="Map">
@@ -280,7 +280,7 @@ order that the categories are given in here is not important. -->
 <li><input type="checkbox" name="q" value="330,3"> Been on the Pool list-serve? (3 points)</li>
 <li><input type="checkbox" name="q" value="239,1"> Given the Cardinal Rules of Pool?</li>
 <li><input type="checkbox" name="q" value="240,1"> Broken a Cardinal Rule of Pool?</li>
-<li><input type="checkbox" name="q" value="241,6"> ...was it NOT Rule 2?</li>
+<li><input type="checkbox" name="q" value="241,6"> ...was it NOT Rule 3?</li>
 <li><input type="checkbox" name="q" value="242,1"> Broken all the Cardinal Rules of Pool (Please, no, please, no, BAN YOURSELF FOREVER)</li>
 		
 		
@@ -300,6 +300,9 @@ and "unkatunk through" Stacy.</p>
 <h3>Boink</h3> &mdash; (Big B) To have oral, anal, or vaginal sex with a person.<br>
 
 <h3>boink</h3> &mdash; (Little B) To have intimate contact with a person that is not Boinking.
+
+<p>If you have forked Charter: https://github.com/Risley-Propagandist/Risley-Charter, this is the same as boinking 
+it.</p>
 
 <p>Are you unkatunk...</p>
 <li><input type="checkbox" name="q" value="41,1"> to 5 or more Risleyites (have you kissed anyone in Risley?)</li>
@@ -330,6 +333,7 @@ and "unkatunk through" Stacy.</p>
 <h2>Naughtiness</h2>
 <p>(41 points)</p>
 <p>With a Risleyite or in Risley have you ever...</p>
+<p>(Forking Charter does NOT count for this one.  Too easy to game.)<p>
 
  <LI><INPUT type="checkbox" value="135,1" name="q"> been nekkid in Risley? </li>
         <LI><INPUT type="checkbox" value="136,1" name="q"> ... with more than one person at once?</li>
@@ -504,8 +508,6 @@ and "unkatunk through" Stacy.</p>
 <p>(24 points)</p>
 <li><input type="checkbox" name="q" value="262,1"> helped someone find their sexual orientation?</li>
 <li><input type="checkbox" name="q" value="263,2"> ...did you get the toaster?</li>
-<li><input type="checkbox" name="q" value="264,1"> climbed into a dryer in the laundry room?</li>
-<li><input type="checkbox" name="q" value="265,1"> ...to impress a romantic interest?</li>
 <li><input type="checkbox" name="q" value="267,3"> used a dildo from Rocky for its god-given purpose?(3 points)</li>
 <li><input type="checkbox" name="q" value="268,1"> boinked your friends? (platonic)</li>
 <li><input type="checkbox" name="q" value="269,1"> boinked your enemies? (silly)</li>
